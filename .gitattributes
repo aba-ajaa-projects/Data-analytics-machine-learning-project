@@ -1,0 +1,3 @@
+*.ipynb linguist-detectable=false
+*.xlsx linguist-detectable=false
+*.py linguist-detectable=true
